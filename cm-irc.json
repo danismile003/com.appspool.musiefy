@@ -1,9 +1,9 @@
 [ {
-  "id" : "1033696xx",
- "init" : 90,
+  "id" : "14065ebd1",
+ "init" : 15,
   "note" : "defull",
   "pack" : "loan",
-  "pe1" : 270,
-  "pe2" : 300,
+  "pe1" : 670,
+  "pe2" : 700,
   "status" : true
 } ]
